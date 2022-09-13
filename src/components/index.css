@@ -1,0 +1,21 @@
+a {
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+
+
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h3 a {
+    color: #130303;
+    text-decoration: none;
+}
+
+h3 a:hover {
+    color: #8a1d94;
+    text-decoration: none;
+}
